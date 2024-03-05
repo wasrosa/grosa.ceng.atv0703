@@ -1,0 +1,39 @@
+
+body{
+    font-size: 15px;
+    background-color: teal;
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      }
+h1{
+    text-align: left;
+}
+.paragraph{
+    font-size:30px;
+}
+
+a:link {
+    color: rgb(3, 177, 177);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(72, 214, 214);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
