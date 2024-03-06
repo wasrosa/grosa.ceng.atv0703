@@ -15,7 +15,7 @@ h1{
 }
 
 a:link {
-    color: rgb(3, 177, 177);
+    color: gray;
     background-color: transparent;
     text-decoration: none;
   }
