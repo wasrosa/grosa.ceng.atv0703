@@ -1,21 +1,22 @@
 
 body{
-    font-size: 15px;
-    background-color: teal;
+    background-image: linear-gradient(to bottom right, teal, blue);
     color: whitesmoke;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
       }
 h1{
-    text-align: left;
+    color: grey;
+    font-size: 30pt
 }
 .paragraph{
-    font-size:30px;
+    font-size: 15pt;
 }
 
 a:link {
-    color: gray;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
   }
@@ -27,13 +28,13 @@ a:link {
   }
   
   a:hover {
-    color: rgb(72, 214, 214);
+    color: blue;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
   }
   
   a:active {
     color: yellow;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
   }
