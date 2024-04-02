@@ -16,7 +16,7 @@ h1{
 }
 
 a:link {
-    color: blue;
+    color: red;
     background-color: transparent;
     text-decoration: none;
   }
@@ -28,7 +28,7 @@ a:link {
   }
   
   a:hover {
-    color: blue;
+    color: red;
     background-color: transparent;
     text-decoration: none;
   }
