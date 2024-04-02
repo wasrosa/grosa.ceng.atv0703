@@ -1,6 +1,6 @@
 
 body{
-    background-size: contain;
+    background-size: cover;
     background-image: linear-gradient(to bottom right, purple, yellow);
     color: white;
     font-family: "Roboto", sans-serif;
