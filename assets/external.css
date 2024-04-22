@@ -2,8 +2,7 @@
 :root{
     background-size: cover;
     background-attachment: fixed;
-    background: rgb(92,249,101);
-    background: linear-gradient(122deg, rgba(92,249,101,1) 28%, rgba(255,136,247,1) 100%);
+    background-image: linear-gradient(to bottom right,  rgba(92,249,101,1) 28%, rgba(255,136,247,1) 100%);
     color: white;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
