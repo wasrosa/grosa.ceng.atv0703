@@ -17,26 +17,14 @@ h1{
     font-size: 15pt;
 }
 
-a:link {
+.odd{
+    font-size: 16pt;
+    font-family: arial;
     color: red;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: pink;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: none;
-  }
+}
+
+.even{
+    font-size: 20pt;
+    font-family: verdana;
+    color: blue;
+}
