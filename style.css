@@ -1,5 +1,6 @@
 :root{
     background-size: cover;
+    background-attachment: fixed;
     background-image: linear-gradient(to bottom right, purple, yellow);
     color: white;
     font-family: "Roboto", sans-serif;
@@ -8,7 +9,7 @@
     text-align: center;
       }
 h1{
-    color: grey;
+    color: white;
     font-size: 30pt
 }
 .paragraph{
