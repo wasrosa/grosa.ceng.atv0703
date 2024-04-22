@@ -1,0 +1,42 @@
+
+:root{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom right, pink, green);
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+      }
+h1{
+    color: white;
+    font-size: 30pt
+}
+.paragraph{
+    font-size: 15pt;
+}
+
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+  }
